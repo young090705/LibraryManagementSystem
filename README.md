@@ -26,7 +26,7 @@ LibraryManagementSystem/
 └── UML类图.png
 ```
 # UML类图
-![UML类图](./UML类图.png)
+![UML类图](UML.png)
 
 - 里面有两个类（Main,LibraryGUI）可以运行图书管理系统
   - Main是只有终端界面
