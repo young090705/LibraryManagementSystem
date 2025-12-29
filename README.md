@@ -23,4 +23,12 @@ LibraryManagementSystem/
 │   ├── Library.java (核心系统)
 │   └── Main.java (控制台界面)
 └── README.md
+└── UML类图.png
 ```
+# UML类图
+![UML类图](./UML类图.png)
+
+- 里面有两个类（Main,LibraryGUI）可以运行图书管理系统
+  - Main是只有终端界面
+  - LibraryGUI有UI界面
+
