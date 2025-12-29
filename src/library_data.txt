@@ -1,0 +1,18 @@
+# Books
+BOOK,PRINTED,B001,The Hobbit,J.R.R. Tolkien,5
+BOOK,EBOOK,E100,Java Basics,Some Author,0
+BOOK,PRINTED,B004,TheMoonandSixpence,walian,5
+BOOK,PRINTED,B002,Clean Code,Robert C. Martin,2
+BOOK,PRINTED,B003,Algorithms Illustrated,Jane Doe,1
+
+# Members
+MEMBER,1,Alice
+MEMBER,2,Bob
+MEMBER,3,Charlie
+MEMBER,5,Mike
+
+# BorrowRecords
+RECORD,B002,1,2025-12-22,2026-01-05,false
+RECORD,E100,2,2025-12-22,2026-01-05,true
+RECORD,B001,1,2025-12-22,2026-01-05,true
+RECORD,B004,5,2025-12-22,2026-01-05,true
